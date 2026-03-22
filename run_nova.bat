@@ -1,5 +1,5 @@
 @echo off
-set "PROJECT_DIR=c:\Users\aadig\OneDrive\Documents\python\Full Stack Practise\nova_assistant_pro"
+set "PROJECT_DIR=c:\Users\PATH OF YOUR DIRECTORY"
 
 echo Launching Nova Assistant Pro in PowerShell...
 
