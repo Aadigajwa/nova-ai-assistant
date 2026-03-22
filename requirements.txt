@@ -1,0 +1,11 @@
+pvporcupine
+sounddevice
+numpy
+SpeechRecognition
+pyttsx3
+PyYAML
+requests
+wikipedia
+pycaw
+comtypes
+screen-brightness-control

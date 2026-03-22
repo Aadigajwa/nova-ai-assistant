@@ -1,0 +1,30 @@
+assistant:
+  name: "Nova"
+  wake_word_path: "hey_nova.ppn"
+  access_key: "l6a8ri58xWmnYpZsliptClngwAx9/x2KJa+6SQaJRc2nuOJ2VtV1oA==" 
+  speech_rate: 150
+
+apps:
+  notepad: "notepad"
+  calculator: "calc"
+  paint: "mspaint"
+  snipping tool: "snippingtool"
+  powershell: "powershell"
+  terminal: "cmd"
+  settings: "start ms-settings:"
+  chrome: "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+  edge: "msedge"
+  firefox: "firefox"
+  vs code: "code"
+  spotify: "spotify"
+  discord: "discord"
+  word: "winword"
+  excel: "excel"
+  powerpoint: "powerpnt"
+  clock: "start ms-clock:"
+  calendar: "start outlookcal:"
+  weather: "start bingweather:"
+
+search:
+  google: "https://www.google.com/search?q="
+  youtube: "https://www.youtube.com/results?search_query="
